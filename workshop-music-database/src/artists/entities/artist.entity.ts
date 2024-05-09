@@ -13,3 +13,5 @@ export class Artists {
   @Column()
   age: number;
 }
+
+//one to many
